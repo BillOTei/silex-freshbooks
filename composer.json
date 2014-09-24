@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "rtconner/freshbooks-api": "dev-master"
+        "billotei/freshbooks-api": "dev-master"
     },
     "require-dev": {
         "silex/silex": "*"
