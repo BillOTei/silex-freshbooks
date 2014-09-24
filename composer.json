@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/BillOTei/freshbooks-api"
+            "url": "https://github.com/billotei/freshbooks-api"
         }
     ],
     "require": {
