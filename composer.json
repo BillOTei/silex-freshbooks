@@ -1,5 +1,5 @@
 {
-    "name": "silex-freshbooks",
+    "name": "billotei/silex-freshbooks",
     "description": "Silex service for freshbooks",
     "keywords": ["silex", "freshbooks", "iconosquare"],
     "homepage": "https://github.com/BillOTei/silex-freshbooks",
