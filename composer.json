@@ -10,8 +10,15 @@
             "email": "alexandre@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/billotei/freshbooks-api"
+        }
+    ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "rtconner/freshbooks-api": "dev-master"
     },
     "require-dev": {
         "silex/silex": "*"
